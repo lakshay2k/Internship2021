@@ -10,4 +10,7 @@
 
 ***Task3: Implement practically and code the Scala and Java Future objects to achieve concurrency in Spark***
 
+***Task4: Work on analyzing using presidio. For example, if there is an email, then it should automatically detect PII information and encrypt/mark it***
+
+***Task5: Work on anonymizing using presidio. For example, hello I am taking disprin and my age is 25 and i am having bipolar disorder then it should automatically detect PII information and encrypt/mark it.***
 
