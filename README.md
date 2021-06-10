@@ -14,3 +14,6 @@
 
 ***Task5: Work on anonymizing using presidio. For example, hello I am taking disprin and my age is 25 and i am having bipolar disorder then it should automatically detect PII information and encrypt/mark it.***
 
+***Task6: Creating a Model using Spacy and training it to detect the medicine, age and diseases in the given statement.***
+
+
